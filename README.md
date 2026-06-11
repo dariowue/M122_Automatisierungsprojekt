@@ -12,3 +12,4 @@ Dieses GitHub-Repository beinhaltet zwei Versionen des Skriptes: Eine normale Ve
 * Dieses Repository wurde nur zur Projektabgabe erstellt und beinhaltet deshalb nur die finalen Versionen ohne jeglichen Versionsverlauf.
 * Jegliche Credentials wie TenantId, ClientId und ClientSecret wurden aus Sicherheitsgründen mit beliebig vielen Asterisken (*) ausgetauscht.
 * Alle internen E-Mailadressen wurden aus Sicherheitsgründen durch "mail@${env}.internal.com" ersetzt.
+* Zusätzlich wurden aus Sicherheitsgründen User-, Kunden- sowie Gruppennamen entweder vollständig oder teilweise abgeändert.
